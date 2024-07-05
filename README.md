@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Applying-Cloud
+- 👀 I’m an AWS Advanced Partner that helps companies in their journey to the cloud
+- 🌱 This is my webpage: https://www.applying.cloud/
+- 💞️ And this is my Linkedin: https://www.linkedin.com/company/applying-cloud/mycompany/ 
+- ⚡ Please contact us if you need help in your journey to the cloud!
